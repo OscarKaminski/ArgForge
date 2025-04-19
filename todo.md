@@ -1,4 +1,8 @@
 # Developer To-Do List (For maintainers & contributors)
 
-- [ ] I'll fill this in later.
-- [x] I'll fill this in later.
+This is a suggested to-do list of things to implement to the repository
+
+> Remember! This is just a suggestion! You can contribute anything!
+
+- [x] Query Generatior Function (Python)
+- [ ] Query Searcher Function (Python)
